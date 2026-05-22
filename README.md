@@ -8,3 +8,6 @@ Pueden hacer lo que quieran...
 
 ### Subnotas
 Cambios remotos
+
+### Y más
+Cambios locales
